@@ -1,0 +1,4 @@
+set_io O  B5
+set_io A  B6
+set_io B  B7
+set_io sel  B4
